@@ -24,6 +24,5 @@ Prior to the invention of C#, languages like C and C++ were compiled into machin
 With C# it was decided mirror the strategy employed by Java where the code is converted to IL Code (Intermediate Language Code) which is not tied to a specific architecture or operating system.
 The IL Code then needs to be converted to native code appropriate for the system archetecture/operating system. This is the job of the CLR.
 
-<img src="clr.jpg">
+![clr](./images/clr.png)
 
-czzx cz 
