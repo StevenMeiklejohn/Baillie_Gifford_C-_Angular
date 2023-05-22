@@ -1,0 +1,19 @@
+
+Week 1
+=======
+Introduction to web development (HTML, CSS)
+Advanced Typescript
+
+Week 2
+=======
+Angular Framework
+Integration testing
+
+Week 3
+=======
+Agile & Devops
+Introduction to Azure and CI
+
+Week 4
+=======
+Group project

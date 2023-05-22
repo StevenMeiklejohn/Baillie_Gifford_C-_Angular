@@ -1,0 +1,23 @@
+
+Week 1
+========
+Introduction to C#
+C# and advanced OOP
+
+Week 2
+=======
+Relational databases and SQL
+Entity framework + CRUD API
+
+Week 3
+=======
+Full stack angular and C# app
+
+
+Week 4
+=======
+Azure Devops, Docker, Containers
+
+Week 5
+=======
+Final project
