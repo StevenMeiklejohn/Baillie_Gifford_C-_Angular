@@ -21,3 +21,7 @@ Azure Devops, Docker, Containers
 Week 5
 =======
 Final project
+
+
+What is C#
+Writing code and IDEs
