@@ -256,7 +256,6 @@ Now lets show all tasks post delete operation;
                     }
 ```
 
-
 Congratulations! You have completed a multi class crud app with mapped relationships!
 
 
